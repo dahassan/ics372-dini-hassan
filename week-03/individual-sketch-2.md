@@ -14,6 +14,8 @@
 - **[UC-B6] [Barista]** [one line: barista marks inventory needs] *[req 3.6]*
 - **[UC-B7] [Barista]** [one line: barista adds menu item] *[req 3.7]*
 
+I believe that there are only three actors as there aren't any other responsibilities/actions left as described by the owner to attribute to another actor in the system.
+
 ---
 
 ## Diagram
