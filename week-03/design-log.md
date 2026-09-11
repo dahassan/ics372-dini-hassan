@@ -33,7 +33,6 @@ For the entirety of Category one, I argued that the subsections were functional,
 
 ## Part 5 — What You're Uncertain About
 
-*What would you change about your design if you had more time or information? What are you not confident about? What might break later?*
 
 In our group-artifact-2.md, I'm concerned with having "Sign in to kiosk as a member" as a user case as it feels too specific to be a use case.
 
