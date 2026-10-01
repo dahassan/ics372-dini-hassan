@@ -16,7 +16,7 @@
 | Employee | one class | Employee | - |
 | Manager | one class | Manager | - |
 | Inventory | one class | Inventory | - |
-| Menu | one class | - | three String fields on Member |
+| Menu | one class | Menu | - |
 | Customer | one class | Customer |  |
 ```
 
