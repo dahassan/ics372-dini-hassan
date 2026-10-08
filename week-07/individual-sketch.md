@@ -1,4 +1,4 @@
-# Individual Sketch ��� Week 7
+# Individual Sketch Week 7
 **Student:** Dini Hassan
 **Date:** 10/8/26
 ---
